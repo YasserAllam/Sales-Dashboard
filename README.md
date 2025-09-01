@@ -54,17 +54,14 @@ A year-by-year breakdown (2014–2017) shows consistent growth in sales with som
 
 ## 🛠️ Tools & Skills Demonstrated
 
-- **Data Modeling & DAX calculations** for KPIs and relationships
-
-- **Data Cleaning & Preparation** (Excel → Power BI integration)
-- **Business Insights & Recommendations** derived from analysis
-⚙️**Data Transformation (ETL) with Power Query:** Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating 
+- 🧹 **Data Cleaning & Preparation** (Excel → Power BI integration)  
+- ⚙️ **Data Transformation (ETL) with Power Query:** Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating 
 new columns.
-- 🔗**Basic Data Modeling** (Table Relationships)
-- 🧮**Data Modeling & DAX calculations** using relationships and Formulated measures to derive key insights and KPIS like Total sales, total profit and orders count.
-- 📊**Core Charts:** Utilized **Column, Bar, Line, scatter chart and tables** 
-- 🔢**KPI Indicators & Tables:** Used **Cards** to display key metrics and **Tables** to provide granular, sortable data. 
-- 🎨**Dashboard Design:** Designed an intuitive and visually appealing layout, exploring both common and uncommon chart types to best tell the data story. 
+- 🔗 **Basic Data Modeling** (Table Relationships)
+- 🧮 **Data Modeling & DAX calculations:** using relationships and Formulated measures to derive key insights and KPIS like Total sales, total profit and orders count.
+- 📊 **Core Charts:** Utilized **Column, Bar, Line, scatter chart and tables** 
+- 🔢 **KPI Indicators & Tables:** Used **Cards** to display key metrics and **Tables** to provide granular, sortable data. 
+- 🎨 **Dashboard Design:** Designed an intuitive and visually appealing layout, exploring both common and uncommon chart types to best tell the data story. 
 
 
 ## 💡 Business Value
