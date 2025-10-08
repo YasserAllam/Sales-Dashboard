@@ -9,6 +9,8 @@ This interactive Sales Dashboard was built in Power BI to analyze and monitor ke
 
 ### **KPIs at a Glance**
 
+![KPIS](Images/KPIs.png)
+
 - **Total Sales:** $2.3M
 - **Total Profit:** $286K
 - **Total Quantity:** 38K
@@ -16,10 +18,11 @@ This interactive Sales Dashboard was built in Power BI to analyze and monitor ke
 - **Cost of Goods Sold:** $1.69M
 - **Discount Value:** $323K
 
-![KPIS](Images/KPIs.png)
-
+<hr>
 
 ## Insights Breakdown
+
+![Insights](Images/Sales%20analysis%20by%20product%20and%20segments.png)
 
 **Sales Trends**  
 A year-by-year breakdown (2014–2017) shows consistent growth in sales with some seasonal fluctuations.
@@ -32,15 +35,17 @@ A year-by-year breakdown (2014–2017) shows consistent growth in sales with som
 - **Consumer segment** dominates with 50.56% of sales
 - **Corporate and Home Office** segments also show significant contribution
 
-![Insights](Images/Sales%20analysis%20by%20product%20and%20segments.png)
+<hr>
 
+![Discount Analysis](Images/Discount%20Analysis.png)
 
 **Discount Analysis**  
 - Higher discounts are negatively correlated with profit, indicating that aggressive discounting is hurting profitability.
 - **Tables and Bookcases** are causing losses, signaling areas to review pricing or strategy
 
-![Discount Analysis](Images/Discount%20Analysis.png)
+<hr>
 
+![Regional analysis](Images/Regin%20and%20city%20analysis.png)
 
 **Regional Analysis**
 - **West and East regions** drive the highest sales
@@ -49,8 +54,7 @@ A year-by-year breakdown (2014–2017) shows consistent growth in sales with som
 **City-level Breakdown**  
 - Cities like **New York, Los Angeles, and Seattle** lead in both sales and profit contributions.
 
-![Regional analysis](Images/Regin%20and%20city%20analysis.png)
-
+<hr>
 
 ## 🛠️ Tools & Skills Demonstrated
 
@@ -63,6 +67,7 @@ new columns.
 - 🔢 **KPI Indicators & Tables:** Used **Cards** to display key metrics and **Tables** to provide granular, sortable data. 
 - 🎨 **Dashboard Design:** Designed an intuitive and visually appealing layout, exploring both common and uncommon chart types to best tell the data story. 
 
+<hr>
 
 ## 💡 Business Value
 
